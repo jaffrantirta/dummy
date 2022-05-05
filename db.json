@@ -1,98 +1,100 @@
-[
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  },
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  },
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  },
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-  {
-    "id":1,
-    "name":"Kober Buluh Indah",
-    "distance":0.2,
-    "rating":4.9,
-    "is_open":true,
-    "logo":"https://via.placeholder.com/600/92c952"
-  }
-]
+{
+  "shop": [
+    {
+      "id": 1,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 2,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 3,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 4,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 5,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 6,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 7,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 8,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 8,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 9,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 10,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 11,
+      "name": "Kober Buluh Indah",
+      "distance": 0.2,
+      "rating": 4.9,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    }
+  ]
+}
