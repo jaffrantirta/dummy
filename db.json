@@ -59,7 +59,7 @@
     {
       "id": 8,
       "name": "Drinko Cafe",
-      "distance": 02.9,
+      "distance": 2.9,
       "rating": 4.6,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
