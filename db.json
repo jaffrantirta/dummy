@@ -36,7 +36,7 @@
       "id": 5,
       "name": "McDonalds",
       "distance": 2.7,
-      "rating": 5.0,
+      "rating": 5,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
