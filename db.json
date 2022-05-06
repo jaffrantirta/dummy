@@ -10,88 +10,88 @@
     },
     {
       "id": 2,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
+      "name": "Kopi Bali",
+      "distance": 0.3,
+      "rating": 4.8,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 3,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
+      "name": "Mie Gacoan",
+      "distance": 1.5,
       "rating": 4.9,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 4,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
+      "name": "Ayam Bakar Madu Ngegass",
+      "distance": 2.1,
+      "rating": 4.7,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 5,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
+      "name": "McDonalds",
+      "distance": 2.7,
+      "rating": 5.0,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 6,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
+      "name": "KFC",
+      "distance": 2.7,
       "rating": 4.9,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 7,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
+      "name": "Janji Jiwa",
+      "distance": 3.1,
+      "rating": 4.8,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 8,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 8,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
+      "name": "Drinko Cafe",
+      "distance": 02.9,
+      "rating": 4.6,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 9,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
+      "name": "Korner CK",
+      "distance": 3.2,
+      "rating": 4.8,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 10,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
+      "name": "Ayam Kremes Panjer",
+      "distance": 3.3,
+      "rating": 4.7,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
     },
     {
       "id": 11,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
+      "name": "GOGO Fried Chicken",
+      "distance": 3.4,
+      "rating": 4.8,
+      "is_open": true,
+      "logo": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 12,
+      "name": "Tegu Kopi",
+      "distance": 3.5,
       "rating": 4.9,
       "is_open": true,
       "logo": "https://via.placeholder.com/600/92c952"
