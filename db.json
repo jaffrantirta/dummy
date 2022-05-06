@@ -1,100 +1,159 @@
 {
-  "shops": [
-    {
-      "id": 1,
-      "name": "Kober Buluh Indah",
-      "distance": 0.2,
-      "rating": 4.9,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 2,
-      "name": "Kopi Bali",
-      "distance": 0.3,
-      "rating": 4.8,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 3,
-      "name": "Mie Gacoan",
-      "distance": 1.5,
-      "rating": 4.9,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 4,
-      "name": "Ayam Bakar Madu Ngegass",
-      "distance": 2.1,
-      "rating": 4.7,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 5,
-      "name": "McDonalds",
-      "distance": 2.7,
-      "rating": 5,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 6,
-      "name": "KFC",
-      "distance": 2.7,
-      "rating": 4.9,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 7,
-      "name": "Janji Jiwa",
-      "distance": 3.1,
-      "rating": 4.8,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 8,
-      "name": "Drinko Cafe",
-      "distance": 2.9,
-      "rating": 4.6,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 9,
-      "name": "Korner CK",
-      "distance": 3.2,
-      "rating": 4.8,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 10,
-      "name": "Ayam Kremes Panjer",
-      "distance": 3.3,
-      "rating": 4.7,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 11,
-      "name": "GOGO Fried Chicken",
-      "distance": 3.4,
-      "rating": 4.8,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    },
-    {
-      "id": 12,
-      "name": "Tegu Kopi",
-      "distance": 3.5,
-      "rating": 4.9,
-      "is_open": true,
-      "logo": "https://via.placeholder.com/600/92c952"
-    }
-  ]
-}
+    "shops": [
+      {
+        "id": 1,
+        "name": "Kober Buluh Indah",
+        "distance": 0.2,
+        "rating": 4.9,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 2,
+        "name": "Kopi Bali",
+        "distance": 0.3,
+        "rating": 4.8,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 3,
+        "name": "Mie Gacoan",
+        "distance": 1.5,
+        "rating": 4.9,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 4,
+        "name": "Ayam Bakar Madu Ngegass",
+        "distance": 2.1,
+        "rating": 4.7,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 5,
+        "name": "McDonalds",
+        "distance": 2.7,
+        "rating": 5,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 6,
+        "name": "KFC",
+        "distance": 2.7,
+        "rating": 4.9,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 7,
+        "name": "Janji Jiwa",
+        "distance": 3.1,
+        "rating": 4.8,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 8,
+        "name": "Drinko Cafe",
+        "distance": 2.9,
+        "rating": 4.6,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 9,
+        "name": "Korner CK",
+        "distance": 3.2,
+        "rating": 4.8,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 10,
+        "name": "Ayam Kremes Panjer",
+        "distance": 3.3,
+        "rating": 4.7,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 11,
+        "name": "GOGO Fried Chicken",
+        "distance": 3.4,
+        "rating": 4.8,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 12,
+        "name": "Tegu Kopi",
+        "distance": 3.5,
+        "rating": 4.9,
+        "is_open": true,
+        "logo": "https://via.placeholder.com/600/92c952"
+      }
+    ],
+    "menus": [
+      {
+        "id": 1,
+        "name": "Ayam Bakar Madu Ngegass",
+        "desc": "Nasi+ayam bayar+sambel+es teh",
+        "price": 16000,
+        "image": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 2,
+        "name": "Mie Iblis Level 1",
+        "desc": "mie dan topping",
+        "price": 12000,
+        "image": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 3,
+        "name": "Udang Rambutan",
+        "desc": "",
+        "price": 12000,
+        "image": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 4,
+        "name": "Nasi Goreng sambel matah",
+        "desc": "nasi gore spesial sambel matah dengan bawang pilihan",
+        "price": 20000,
+        "image": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 5,
+        "name": "Paket Ayam Geprek 1",
+        "desc": "Nasi + ayam paha bawah + lalapan",
+        "price": 15000,
+        "image": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 6,
+        "name": "Paket Ayam Geprek 2",
+        "desc": "Nasi + ayam dada + lalapan",
+        "price": 21000,
+        "image": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 7,
+        "name": "Ayam kremes sambel ijo",
+        "desc": "ayam saja sama sambel",
+        "price": 12000,
+        "image": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 8,
+        "name": "Toast Chicken Mentai",
+        "desc": "",
+        "price": 25000,
+        "image": "https://via.placeholder.com/600/92c952"
+      }
+    ]
+  }
+  
